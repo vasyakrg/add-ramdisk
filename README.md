@@ -40,7 +40,7 @@
 
 
 #### Как я все это делал
-- Видео с подробными инструкциями доступно [тут]()
+- Видео с подробными инструкциями доступно [тут](https://youtu.be/R2lrCGu0L9g)
 
 ##### Автор
 - **Vassiliy Yegorov** - *Initial work* - [vasyakrg](https://github.com/vasyakrg)
