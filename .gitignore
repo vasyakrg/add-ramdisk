@@ -1,0 +1,11 @@
+.terraform
+terraform.tfstate
+terraform.tfvars
+terraform.tfstate.backup
+.terraform.tfstate.lock.info
+vars.tf
+vars.yml
+hosts
+pr.md
+inventory
+terraform
